@@ -1,4 +1,7 @@
 site_name: Workshop Unittest
 
+nav:
+    - Home: index.md
+
 theme:
     name: material
