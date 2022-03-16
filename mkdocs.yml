@@ -2,6 +2,7 @@ site_name: Workshop Unittest
 
 nav:
     - Home: index.md
+    - Other: other.md
 
 theme:
     name: material
