@@ -1,20 +1,40 @@
-# Workshop Uninttest
+# Welcome to documentation
 
-1. Introducción a la librería
- * Que testear
+Learn now about the documentation
 
-2. Creación del test por componente consultando directamente el servicio. `conf_test` file
-3. Configuración en vscode
+## Workshop content
+- [About documenting](documents.md)
+    - Docs in software
+    - Write good documentation
+    - Read the docs
+- let's do it
+    - [MkDocs](mkdocs.md)
+    - [Sphinx](sphinx.md)
 
-    ```
-    Run and show in terminal
-        ▶ pytest app --cov=app/
-    Run and show in xml
-        ▶ pytest app -rA --junit-xml=report_test/report-unit-test.xml
-    Run with coverage and report html
-        ▶ pytest app --cov=app --cov-report=html
-        ▶ pytest app --cov=app --cov-report=xml
-    ```
+## Objectives
+- Learn a little more about documentation
+- Read documentation
+- Write and create documentation
 
-4. Creación del test por componente con mocks del servicio
-5. Creacións reusables y modularizables mediante pluguins
+## Requirements
+- Positive attitude
+
+## Links
+- Article: [How to Write Good Documentation](https://www.sohamkamani.com/blog/how-to-write-good-documentation/)
+- [Read the docs](https://readthedocs.org/)
+- MkDocs:
+    - [Official website](https://www.mkdocs.org/)
+    - [Themes](https://github.com/mkdocs/mkdocs/wiki/MkDocs-Themes)
+    - [Plugins](https://github.com/mkdocs/mkdocs/wiki/MkDocs-Plugins)
+- Sphinx:
+    - [Official website](https://www.sphinx-doc.org/en/master/)
+    - [Themes](https://github.com/mkdocs/mkdocs/wiki/MkDocs-Themes)
+    - [Projects](https://www.sphinx-doc.org/en/master/examples.html)
+
+## References
+- https://sistemas.com/documentacion.php
+- https://www.youtube.com/watch?v=zoq1Yoqmbe4
+- https://www.youtube.com/watch?v=oJsUvBQyHBs&t=871s
+- https://www.youtube.com/watch?v=7H3DpzqCfME
+- https://www.youtube.com/watch?v=0ilC6bjUpWI&list=PLZAeFn6dfHpkpYchP1iFnQnc7i-2xJd0I&index=4
+- https://mermaid-js.github.io/mermaid/#/

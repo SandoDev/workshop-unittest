@@ -1,8 +1,19 @@
-site_name: Workshop Unittest
+site_name: Docs and more Docs
 
 nav:
     - Home: index.md
-    - Other: other.md
+    - About docs: documents.md
+    - MkDocs: mkdocs.md
+    - Sphinx: sphinx.md
 
 theme:
     name: material
+
+plugins:
+    - search
+    - mermaid2:
+        arguments:
+            theme: 'dark'
+
+extra_javascript:
+    - https://unpkg.com/mermaid@8.5.0/dist/mermaid.min.js
