@@ -1,10 +1,9 @@
-site_name: Docs and more Docs
+site_name: Workshop Unittest
 
 nav:
     - Home: index.md
-    - About docs: documents.md
-    - MkDocs: mkdocs.md
-    - Sphinx: sphinx.md
+    - About Unittest: about_unittest.md
+    - Let's do it: lets_do_it.md
 
 theme:
     name: material
