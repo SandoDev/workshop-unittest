@@ -18,7 +18,7 @@ Learn now about Unittest
 * Learn the relationship between the tests and the quality code
 
 ## Requirements
-* Python
+* Python3
 * Pc
 * Positive attitude
 
