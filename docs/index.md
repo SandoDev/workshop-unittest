@@ -1,40 +1,28 @@
-# Welcome to documentation
+# Workshop Unittest
 
-Learn now about the documentation
+Learn now about Unittest
 
 ## Workshop content
-- [About documenting](documents.md)
-    - Docs in software
-    - Write good documentation
-    - Read the docs
-- let's do it
-    - [MkDocs](mkdocs.md)
-    - [Sphinx](sphinx.md)
+* **About Unittest**
+    - Introduction to [pytest](https://docs.pytest.org/en/7.1.x/)
+    - Set up your development environment
+    - Test and coverage
+* **let's do it**
+    - Write test with connection to services
+    - Write test without connection to services
+    - Write plugins for test
 
 ## Objectives
-- Learn a little more about documentation
-- Read documentation
-- Write and create documentation
+* Learn a little more about unittest
+* Learn how and when to write test
+* Learn the relationship between the tests and the quality code
 
 ## Requirements
-- Positive attitude
+* Python
+* Pc
+* Positive attitude
 
 ## Links
-- Article: [How to Write Good Documentation](https://www.sohamkamani.com/blog/how-to-write-good-documentation/)
-- [Read the docs](https://readthedocs.org/)
-- MkDocs:
-    - [Official website](https://www.mkdocs.org/)
-    - [Themes](https://github.com/mkdocs/mkdocs/wiki/MkDocs-Themes)
-    - [Plugins](https://github.com/mkdocs/mkdocs/wiki/MkDocs-Plugins)
-- Sphinx:
-    - [Official website](https://www.sphinx-doc.org/en/master/)
-    - [Themes](https://github.com/mkdocs/mkdocs/wiki/MkDocs-Themes)
-    - [Projects](https://www.sphinx-doc.org/en/master/examples.html)
-
-## References
-- https://sistemas.com/documentacion.php
-- https://www.youtube.com/watch?v=zoq1Yoqmbe4
-- https://www.youtube.com/watch?v=oJsUvBQyHBs&t=871s
-- https://www.youtube.com/watch?v=7H3DpzqCfME
-- https://www.youtube.com/watch?v=0ilC6bjUpWI&list=PLZAeFn6dfHpkpYchP1iFnQnc7i-2xJd0I&index=4
-- https://mermaid-js.github.io/mermaid/#/
+* [Pytest](https://docs.pytest.org/en/7.1.x/)
+* [Mock pytest](https://changhsinlee.com/pytest-mock/)
+* [pytest-mock](https://snyk.io/advisor/python/pytest-mock)
